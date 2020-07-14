@@ -3,6 +3,10 @@ package com.github.perscholas.java_fundamentals;
 /**
  * Created by Leon Hunter on 6/14/17.
  */
+
+/**Method functionalities added
+ * Monica Deshmukh
+ */
 public class MathUtilities {
 
     /**
